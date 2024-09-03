@@ -9,7 +9,6 @@ You'll also learn about JSON (JavaScript Object Notation), and how to work with 
 - 📫 How to reach me **hanshal18@hotmail.com**
 
 
-
 ### Project Links
  - D3 Bar Chart :- https://codepen.io/hanshal18/full/jOjvJBm
  - D3 Scatter Plot :- https://codepen.io/hanshal18/full/jOjvJxG
